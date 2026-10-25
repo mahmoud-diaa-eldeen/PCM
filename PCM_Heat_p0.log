@@ -1,0 +1,18 @@
+Ansys Lumerical 2024 R1 Heat Transport Solver Version 7.13.3633 (Windows 64bit)
+ expires (month/day/year): 12/31/2035
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 1055@localhost
+current time: Sun Oct 25 10:59:54 2026
+Running on host: mahmoud
+Running ldev file: C:\Program Files\Lumerical\v241\bin\thermal-engine-msmpi.exe E:/optics/Lumerical/PCM/PCM_Heat.ldev -remote -shared-solve-license QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT08QU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT48SUQ+M2MyODljMGMtMGFmMi00NzZiLWExNjQtMmM5MWZlMmU0OTRmPC9JRD48VFlQRT5IUENfUEFSQU1FVFJJQzwvVFlQRT48TkFNRT5IUEMgUGFyYW1ldHJpYzwvTkFNRT48SEFORExFUj41NDY1MEBtYWhtb3VkPC9IQU5ETEVSPjwvQU5TWVNfTElDRU5TSU5HX0NPTlRFWFRfREFUQT4K
+  ...E:/optics/Lumerical/PCM/PCM_Heat.ldev loaded
+Remote execution (remote argument) set to true.
+Generating mesh.
+Mesh generation complete (1s)
+  + vertices: 6147
+  + elements: 35530
+All processes are communicating and ready to proceed to simulation...
+Starting solver.
+Simulation completed successfully at: Sun Oct 25 11:02:00 2026
+  + time to run simulation: 122s
+  + time to finalize and save data: 3s

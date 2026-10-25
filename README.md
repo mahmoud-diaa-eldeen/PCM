@@ -20,6 +20,17 @@
 - Python 3, numpy, matplotlib
 - `lumapi` from the Lumerical installation
 
+## Paths
+
+The script uses absolute paths for the local Lumerical installation and project files.
+Update these lines at the top of `pcm.py` for your machine:
+
+```python
+HEAT_FILE = r"E:\optics\Lumerical\PCM\PCM_Heat.ldev"
+FDTD_FILE = r"E:\optics\Lumerical\PCM\PCM.fsp"
+sys.path.append(r"C:\Program Files\Lumerical\v241\api\python")
+```
+
 ## Run
 
 ```bash
